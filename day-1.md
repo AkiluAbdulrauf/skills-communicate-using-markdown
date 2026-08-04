@@ -2,6 +2,8 @@
 
 ## Morning Planning
 
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
 ## Review
 
 
@@ -42,3 +44,9 @@ var myVar = "Hello, world!";
 
 var myVar = "Hello, world!";
 
+
+
+
+
+<img alt="Mona the Octocat" src="https://octodex.github.com/images/original.png"
+width="200" align="right">
